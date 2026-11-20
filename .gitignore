@@ -1,0 +1,12 @@
+# Virtual environment and caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Backup copies
+*.backup_*
+
+# Data and working folders
+data/
+reports/
